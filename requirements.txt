@@ -1,0 +1,16 @@
+streamlit==1.56.0
+yfinance==0.2.35
+ccxt==4.2.0
+pandas==2.2.0
+numpy==1.26.4
+plotly==5.22.0
+pandas-ta==0.3.14b0
+scikit-learn==1.4.2
+xgboost==2.1.1
+lightgbm==4.4.0
+tensorflow==2.16.1
+optuna==3.15.0
+shap==0.45.1
+requests==2.31.0
+python-dotenv==1.0.1
+pytz==2024.1
